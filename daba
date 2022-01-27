@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--pinguins.xml-->
+<penguins>
+	<penguin>
+	<penguinname>Chinstrap penguin</penguinname>
+	<latinname>Pygoscelis antarctica</latinname>
+	<heightcm>68</heightcm>
+	<weightkg>4.5</weightkg>
+	<estimatedpopulation>5000000</estimatedpopulation>
+	</penguin>
+
+	<penguin>
+	<penguinname>Emperor penguin</penguinname>
+	<latinname>Aptenodytes forsteri</latinname>
+	<heightcm>115</heightcm>
+	<weightkg>30</weightkg>
+	<estimatedpopulation>238000</estimatedpopulation>
+	</penguin>
+</penguins>
