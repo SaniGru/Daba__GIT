@@ -8,14 +8,6 @@
 	<weightkg>4.5</weightkg>
 	<estimatedpopulation>5000000</estimatedpopulation>
 	</penguin>
-
-	<penguin>
-	<penguinname>Emperor penguin</penguinname>
-	<latinname>Aptenodytes forsteri</latinname>
-	<heightcm>115</heightcm>
-	<weightkg>30</weightkg>
-	<estimatedpopulation>238000</estimatedpopulation>
-	</penguin>
 </penguins>
 <!--stars.xml-->
 <stars>
