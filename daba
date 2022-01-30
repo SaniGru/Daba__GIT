@@ -28,3 +28,8 @@
 	<color>yellow</color>
 </flowers>
 
+<stars>
+	<starname>Sirius</starname>
+	<latinname>Sirius</latinname>
+	<radius>1.19 million km</radius>
+</stars>
