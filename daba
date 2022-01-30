@@ -4,9 +4,8 @@
 	<latinname>Ursa Major</latinname>
 	<area>1280 square degrees</area>
 </stars>
-<!--mushrooms.xml-->
-<mushrooms>
-    <mushroomname>Baravika</mushroomname>
-	<latinname>Boletus</latinname>
-	<color>brown</color>
-</mushrooms>
+<stars>
+	<starname>Sirius</starname>
+	<latinname>Sirius</latinname>
+	<radius>1.19 million km</radius>
+</stars>
