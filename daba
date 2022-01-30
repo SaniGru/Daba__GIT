@@ -21,3 +21,10 @@
 	<latinname>Boletus</latinname>
 	<color>brown</color>
 </mushrooms>
+<!--flowers.xml-->
+<flowers>
+    <flowername>Tulip</flowername>
+	<latinname>Tulipa</latinname>
+	<color>red</color>
+</flowers>
+
